@@ -1,0 +1,1 @@
+/home/ruben/django/gestor_citas/manage.py
